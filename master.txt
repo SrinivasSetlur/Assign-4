@@ -1,0 +1,1 @@
+This is my master text file.The file is present in all the four branches
